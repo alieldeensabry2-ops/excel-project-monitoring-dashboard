@@ -29,6 +29,12 @@ It was originally developed as a real project, and I decided to share it after a
 ## Notes
 The data used in this published version has been anonymized to protect confidentiality.
 
+## Documentation
+
+For more details about the project:
+
+- [Project Overview](docs/01-overview.md)
+
 ## Preview
 
 ### Main Dashboard
@@ -39,6 +45,8 @@ The data used in this published version has been anonymized to protect confident
 
 ### project-details
 <img width="1901" height="987" alt="project-details" src="https://github.com/user-attachments/assets/df957969-8560-4898-8728-e012c4e2a965" />
+
+
 
 ### Contract-details
 <img width="1899" height="988" alt="Contract-details" src="https://github.com/user-attachments/assets/3208db23-1b7c-45f9-a300-cfb6b2fc1abb" />
