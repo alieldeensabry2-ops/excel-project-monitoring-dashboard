@@ -40,6 +40,7 @@ For more details about the project:
 - [Progress Visuals](docs/05-progress-visuals.md)
 - [Drill-Down & UserForm](docs/06-drilldown-userform.md)
 - [VBA Architecture](docs/07-vba-architecture.md)
+- [Area_Dash UserForm](docs/08-area-dash-form.md)
 
 ## Preview
 
