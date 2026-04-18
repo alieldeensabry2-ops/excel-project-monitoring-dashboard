@@ -39,6 +39,7 @@ For more details about the project:
 - [UI / UX Design](docs/04-ui-ux-design.md)
 - [Progress Visuals](docs/05-progress-visuals.md)
 - [Drill-Down & UserForm](docs/06-drilldown-userform.md)
+- [VBA Architecture](docs/07-vba-architecture.md)
 
 ## Preview
 
