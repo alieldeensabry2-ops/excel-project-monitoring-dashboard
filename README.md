@@ -34,6 +34,7 @@ The data used in this published version has been anonymized to protect confident
 For more details about the project:
 
 - [Project Overview](docs/01-overview.md)
+- [Search System](docs/02-search-system.md)
 
 ## Preview
 
