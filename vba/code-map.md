@@ -2,14 +2,20 @@
 
 This folder contains the VBA components behind the Excel dashboard.
 
-## Detected workbook components
+## Confirmed workbook components
 
 ### Excel Objects
 - ThisWorkbook
-- Sheet1 (Dash)
-- Sheet2 (Contracts)
-- Sheet3 (Main_Dash_pivots)
-- Sheet4 (Projects_Tab_Pivots)
+- Sheet1
+- Sheet2
+- Sheet3
+- Sheet4
+
+### Workbook Sheets
+- Dash
+- Contracts
+- Main_Dash_pivots
+- Projects_Tab_Pivots
 
 ### UserForms
 - Area_Dash
@@ -19,9 +25,9 @@ This folder contains the VBA components behind the Excel dashboard.
 ### Standard Modules
 - Module1
 
-## Detected logic and events
+## Confirmed detected logic and events
 
-The workbook includes event-driven VBA procedures related to:
+The workbook includes VBA procedures related to:
 
 - search box interaction
 - suggestion list handling
@@ -34,7 +40,7 @@ The workbook includes event-driven VBA procedures related to:
 - dynamic content visibility
 - chart loading inside forms
 
-## Example detected procedure names
+## Confirmed procedure names detected from the VBA project
 
 - Search_Box_Change
 - Search_Box_GotFocus
@@ -48,6 +54,8 @@ The workbook includes event-driven VBA procedures related to:
 - show_inDash
 - hidemultipages
 
-## Purpose
+## Note
 
-This file acts as a map for the VBA project structure before exporting all source code files into this repository.
+This file is based on confirmed component and procedure names extracted from the workbook structure.
+
+Some relationships between workbook sheets and VBA sheet code modules may require direct export from the VBA Editor for full one-to-one verification.
