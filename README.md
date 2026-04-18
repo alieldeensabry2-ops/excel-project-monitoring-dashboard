@@ -1,4 +1,5 @@
 # Interactive Excel Project Monitoring Dashboard
+![Dashboard Preview](screenshots/main-dashboard.PNG)
 
 This project is an interactive project monitoring dashboard built using **Excel, VBA, and PivotTables**.
 
