@@ -35,6 +35,10 @@ For more details about the project:
 
 - [Project Overview](docs/01-overview.md)
 - [Search System](docs/02-search-system.md)
+- [Pivot Architecture](docs/03-pivot-architecture.md)
+- [UI / UX Design](docs/04-ui-ux-design.md)
+- [Progress Visuals](docs/05-progress-visuals.md)
+- [Drill-Down & UserForm](docs/06-drilldown-userform.md)
 
 ## Preview
 
